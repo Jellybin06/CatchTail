@@ -226,7 +226,7 @@ public class Sequence {
     }
 
     public static void startGame() {
-        //
+
         SendMessage.broadcastMessage(Component.text("10초 후 랜덤한 위치로 텔레포트합니다.")
                 .color(NamedTextColor.BLUE));
 
